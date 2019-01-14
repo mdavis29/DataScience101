@@ -39,6 +39,8 @@ https://data.cityofnewyork.us/Transportation/Bus-Breakdown-and-Delays/ez4e-fazm
     + Weka demonstration with IRIS Data Set
 
 ### Homework
+https://github.com/fivethirtyeight/data/blob/master/college-majors/recent-grads.csv
+
 write a paragraph on why your chosen major using 538 recent college grads data set (linked above)
 was a good or a poor choice given it's earning potential and employment rates,
 support with plots in tableau (pasted int the a word document).  Advanced students may also use weka to create
