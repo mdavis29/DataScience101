@@ -35,7 +35,10 @@ https://data.cityofnewyork.us/Transportation/Bus-Breakdown-and-Delays/ez4e-fazm
 
 ### Week 2 Day 1 Data Understanding
     + Indroction to Weka
-    + Indruction to Supervised learning
+    + Indruction to Machine Learing
+        + supervised (outcomes known)
+        + unsupervised (out comes unknown)
+        + other methods
     + Weka demonstration with IRIS Data Set
 
 ### Homework
