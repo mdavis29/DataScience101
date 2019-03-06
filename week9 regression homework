@@ -1,0 +1,31 @@
+## Objectives
+use boston housing data to find the following
+```python
+from sklearn import datasets
+boston = datasets.load_boston()
+X, y = boston.data, boston.target
+feature_names = boston.feature_names
+```
+
+## Deliverables
+jupter notebook the following
+ + Three Regression Models:
+    * sklearn.linear_model.LinearRegression
+    * sklearn.ensemble.RandomForestRegressor
+        + n_estimators 
+        + max_depth
+        + min_samples_split 
+    * sklearn.ensemble.GradientBoostingRegressor
+        + learning_rate 
+        + n_estimators
+        + max_depth
+        
++ using sklearn.model_selection.GridSearchCV to create the boosted tree and random forest models
+
+search the following parameters
+
++ Compare select the best models using r2_score, and MSE.
++ plot preds vs actuals for all three models
++ plot feature importance for all models 
++ write a summary of findings. 
+
