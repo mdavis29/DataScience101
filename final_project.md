@@ -42,8 +42,9 @@ Description:  The Data Science final project is intended to apply programming an
 * explain concluesions
 * demo Tableau App.
 
-
-  
+##### Subjective Participation 
+ * assessed a by the instructor ( 10% of final prorject grade)
+ 
   
 
   
