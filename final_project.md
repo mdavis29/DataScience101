@@ -15,12 +15,14 @@ Description:  The Data Science final project is intended to apply programming an
 ##### Project Proposal. Due April 1st, word or text document uploaded to oaks
     * Generall summary of the features in the data set, size and decription of the data source
     * THREE Questions the team is proposing to answer using the data analysis, modeling and data vizualiation
-    *  The proposal must include an application of either clusering, regression or classification to anwser at least ione of the questions.
+    *  The proposal must include an application of either clusering, regression or classification to anwser at 
+    least ione of the questions.
     * Decription on why understanding the three questions is important and where that knowledge might be most applicable.
 ##### Model Markdown pdf, intial draft Friday April 19t, final due on May 1st.  unloaded to OAKS. 
     * Sections : 
       * Description of Objectives (what are the three questions)
-      * Description of Modeling Approach (what model and analysis is going to use to answer each of the three questions.
+      * Description of Modeling Approach (what model and analysis is going to use to
+      answer each of the three questions.
       * General Desriptions of the data. 
       * Modeling and Analysis:
           + Code for building, and optimizing the models
