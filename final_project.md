@@ -17,7 +17,8 @@ Description:  The Data Science final project is intended to apply programming an
     * THREE Questions the team is proposing to answer using the data analysis, modeling and data vizualiation
     *  The proposal must include an application of either clusering, regression or classification to anwser at 
     least ione of the questions.
-    * Decription on why understanding the three questions is important and where that knowledge might be most applicable.
+    * Decription on why understanding the three questions is important and where that 
+    knowledge might be most applicable.
 ##### Model Markdown pdf, intial draft Friday April 19t, final due on May 1st.  unloaded to OAKS. 
     * Sections : 
       * Description of Objectives (what are the three questions)
