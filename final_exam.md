@@ -60,7 +60,7 @@ Define the following parts of a decision tree:
 
 + leaf: 
 
-#### Understanding error metrics
+#### Understanding Classication Models
 The following are error metrics of predictive models of a severely imbalanced data set:
 
 + model1: training-set: accuracy 99.9%, auc 0.5, test-set: accuracy 99.9%, auc 0.5
