@@ -93,14 +93,16 @@ The following are error metrics of predictive models of a severely imbalanced da
 
 
 #### CLustering
+
 + When building cluster models, what are desirable features that a good model might demonstrate?  
 
 
 + Can a cluster model be over fit, if so how could you tell?
 
 
+#### Data Mining Process
 
-
+You work at a cell phone service provider that has a large problem customer retention (customers are switch to a rival cell provided in alarming rates). You have access to payment and account history of all your customer, as well as website visits and search histories.  Create a project proposal using CRIP DM as a frame work to use Data Science create a proposal of a project that will address the customer retention.
 
 
 
