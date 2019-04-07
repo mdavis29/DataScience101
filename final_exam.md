@@ -74,7 +74,8 @@ The following are error metrics of predictive models of a severely imbalanced da
  * Which model is over fit?
 
  * Which model learned a trivial, non intersting, solution?
-
+ 
+ * Which is the best model?
 
 #### regression Models
 
