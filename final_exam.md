@@ -6,7 +6,9 @@ output: html_document
 ---
 
 ## DATA Science 101 Final Exam
-####Directions
+
+#### Directions
+Copy the markdown docuoment, provide a short answer underneith the questions, upload final exam to Oaks by May 2, 2019
 
 Describe how your team used each step of the CRIPS DM Process for you final project.  ( A new sentences per step)
 
