@@ -35,15 +35,15 @@ Describe how your team used each step of the CRIPS DM Process for you final proj
 
 
 
-+ In the modeling phase of your project, how was the data split 
+  + In the modeling phase of your project, how was the data split 
 
 
-+ What is the difference between 10 fold cross validation and a random holdout when splitting data? Why would you use one vs the other?
+  + What is the difference between 10 fold cross validation and a random holdout when splitting data? Why would you use one vs the other?
 
 
 
 
-+ How to decision tree use entropy to decide where to split variables?
+  + How to decision tree use entropy to decide where to split variables?
 
 
 
@@ -61,17 +61,17 @@ Define the following parts of a decision tree:
 #### Understanding error metrics
 The following are error metrics of predictive models of a severely imbalanced data set:
 
-* model1: training-set: accuracy 99.9%, auc 0.5, test-set: accuracy 99.9%, auc 0.5
-* model2: training-set: accuracy 60% auc .6, test-set: accuracy 99.9%, auc 0.5
-* model3: training_set: accuracy 95% auc .92, test_set: accuracy 75.9%, auc 0.63
-* model4: training_set: accuracy 92% auc .85, test_set: accuracy 91%, auc 0.83
++ model1: training-set: accuracy 99.9%, auc 0.5, test-set: accuracy 99.9%, auc 0.5
++ model2: training-set: accuracy 60% auc .6, test-set: accuracy 99.9%, auc 0.5
++ model3: training_set: accuracy 95% auc .92, test_set: accuracy 75.9%, auc 0.63
++ model4: training_set: accuracy 92% auc .85, test_set: accuracy 91%, auc 0.83
 
 
-+ Which model is under fit?
+ * Which model is under fit?
 
-+ Which model is over fit?
+ * Which model is over fit?
 
-+ Which model learned a trivial, non intersting, solution?
+ * Which model learned a trivial, non intersting, solution?
 
 
 #### regression Models
