@@ -35,15 +35,17 @@ Describe how your team used each step of the CRIPS DM Process for you final proj
 
 
 
-  + In the modeling phase of your project, how was the data split 
+##### 
+
++ In the modeling phase of your project, how was the data split 
 
 
-  + What is the difference between 10 fold cross validation and a random holdout when splitting data? Why would you use one vs the other?
++ What is the difference between 10 fold cross validation and a random holdout when splitting data? Why would you use one vs the other?
 
 
 
 
-  + How to decision tree use entropy to decide where to split variables?
++ How to decision tree use entropy to decide where to split variables?
 
 
 
