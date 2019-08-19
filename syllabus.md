@@ -2,7 +2,7 @@
 
 #### Data Science 101, College of Charleston
 
-Spring 2019
+Fall 2019
 
 #### Official Course Description
 
@@ -20,7 +20,8 @@ Python Data Science Handbook: Essential Tools for Working with Data, by Jake Van
 
 
 ##### Computing Requirements
-Access to a computer with least 4gb of ram and the ability to install software (typically admin access).
+
+Access to a computer with least 8gb of ram and the ability to install software (typically admin access).
  Only the open source and or publicaly availible versions are required, so there is no need to purchase software.
  Software is available on Mac, Windows or Linux although installation steps vary.
 Installation requirements included:
@@ -39,10 +40,11 @@ Students will often need to bring a laptop to class
 Contact Information:
 
 *	Professor: Matthew Davis
-*	Office Hours:: 5:00 pm - 5:30 pm 	Monday, Wednesday  (in the class room)
+*	Office Hours:: 4:15 pm - 5:00 pm 	Monday, Wednesday  (in the class room)
 *	E-mail: davismc2@cofc.edu
 *	Office Phone: NA
-*	Class 	5:30 pm - 6:45 pm 	Monday, Wednesday 	Harbor Walk East 301,  	Jan 08, 2019 - May 02, 2019
+*	Class 	5:00 pm - 6:15 pm 	Monday, Wednesday at Harbor Walk East 3021,  Start	Wed Aug 21st
+* Final Exame (E Block)  Monday Dec 9th, 4-7pm
 
 ##### Course (learning) outcomes
 
