@@ -18,6 +18,9 @@ optional book:
 Python Data Science Handbook: Essential Tools for Working with Data, by Jake VanderPlas
  ISBN-13: 978-1491912058
 
+#### Homework
+All home work is to be turned in on oaks, email or paper homework will not be accepted.
+
 
 ##### Computing Requirements
 
