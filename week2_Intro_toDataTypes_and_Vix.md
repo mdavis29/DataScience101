@@ -23,6 +23,14 @@
  + images, videos
  + boolian (logical) True, False
  
+ 
+ ### Basic Data Transformation
+ + aggregation (summarize data by keys
+ + filtering (remove row or columns, by conditions )
+ + pivoting (take one column, make each unique value it's own column.)
+ + unvipoting (exploding/ melting, taking combining columns into rows)
+ + joining (combine data sets by keys)
+ 
  Crisp DM Data Visualization data mining excersize with
  NYC Bus breakdown data:
 https://data.cityofnewyork.us/Transportation/Bus-Breakdown-and-Delays/ez4e-fazm
