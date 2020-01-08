@@ -31,7 +31,6 @@ Installation requirements included:
 
 * python 3.67  https://www.python.org/downloads/release/python-367/
 * pycharm community https://www.jetbrains.com/pycharm/download
-* Weka  https://www.cs.waikato.ac.nz/ml/weka/downloading.html  (note, it's usually easier to install java seperately)
 * Tableau Public https://public.tableau.com/en-us/s/
 * git https://gitforwindows.org/https://gitforwindows.org/
 
@@ -47,7 +46,7 @@ Contact Information:
 *	E-mail: davismc2@cofc.edu
 *	Office Phone: NA
 *	Class 	5:00 pm - 6:15 pm 	Monday, Wednesday at Harbor Walk East 3021,  Start	Wed Aug 21st
-* Final Exame (E Block)  Monday Dec 9th, 4-7pm
+* Final Exam (E Block)  Monday Dec 9th, 4-7pm
 
 ##### Course (learning) outcomes
 
