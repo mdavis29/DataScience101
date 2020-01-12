@@ -2,7 +2,7 @@
 
 #### Data Science 101, College of Charleston
 
-Fall 2019
+Spring 2020
 
 #### Official Course Description
 
@@ -42,11 +42,13 @@ Students will often need to bring a laptop to class
 Contact Information:
 
 *	Professor: Matthew Davis
-*	Office Hours:: 4:15 pm - 5:00 pm 	Monday, Wednesday  (in the class room)
+*	Office Hours:: 4:15 pm - 5:00 pm 	Tuesday & Thursday  (in the class room)
 *	E-mail: davismc2@cofc.edu
 *	Office Phone: NA
-*	Class 	5:00 pm - 6:15 pm 	Monday, Wednesday at Harbor Walk East 3021,  Start	Wed Aug 21st
-* Final Exam (E Block)  Monday Dec 9th, 4-7pm
+Harbor Walk East 301 	Jan 08, 2020 - Apr 29, 2020 	Lecture
+Class 	5:00 pm - 6:15 pm 	Tuesday & Thursday
+
+Final Exam Tuesday April 28, 7:30pm-10:30pm (H Block)
 
 ##### Course (learning) outcomes
 
@@ -61,16 +63,16 @@ Overall the main learning objective of the course is to give the students some e
 *	To learn a basic introduction to the Python programming language for data science.
 
 ##### Grading Policy
-
+Grading
 *	Project - 40%
 *	Exam - 20%
-*	Homework - 10%
-*	Programming Assignments - 30%
-Grading
+*	Programming Assignments - 40%
+
 
 ##### Note:
 weekly plan is subject to change, and will likely be updated.  It is not advisable to work ahead of the current week.
 Assignments are
+
 
 #### Policies
 All relivent and or required policies from the College of Charleston are in effect and will be adhered to.
