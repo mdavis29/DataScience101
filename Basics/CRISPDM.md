@@ -1,10 +1,18 @@
-### Course Plan 1.11.2018
-## Week 1 Day 1
+## CRISP DM 
+Cross-industry standard process for data mining, known as CRISP-DM
 
-    Introduction: Meet and Greet
-    Syllabus Introduction and discussion
-    CRISP DM Presentation:
-    Get to know you cluster
+RISP-DM breaks the process of data mining into six major phases[14]:
+
+    
+    The CRISP-DM process model has six major phases:
++ Business Understanding: Get a clear understanding of the problem you’re out to solve, how it impacts your organization, and 
++ Data Understanding: Inspect, describe and evaluate the available data.
++ Data Preparation: Take data from the state it’s in to the state needed for analysis.
++ Modeling: Use mathematical techniques to make models (equations or other logic) you can use to support business decisions.
++ Evaluation: Figure out whether your models are any good.
++ Deployment: Integrate models into everyday business.
+
+https://www.sv-europe.com/crisp-dm-methodology/
 
 https://www.slideshare.net/Tommy96/crispdm-an-introduction
 
@@ -16,12 +24,5 @@ https://www.slideshare.net/Tommy96/crispdm-an-introduction
     Ability to Program to deliver solutions well adopted languages (R/Python)
     Knowledge of manipulated databases and data structures
     Domain Knowledge of the Subject
-
-
-## Home work 
-Install software listed in course Syllabus
-#### Notes:
-+ when installing python, make sure to check the box that adds python to the system path, this allows you to type 'python' or 'pip'
-at the command prompt if done correctly.
-+ For  windows installation it's better to put python in a C:/python folder than to let install in the default location
-+ for some Mac and Linux systems, 'python3' command is used instead of python.
+    Understanding of when and where predictions are needed, and how and what data will be availible to make them
+    
